@@ -21,6 +21,12 @@ There are plenty of great resources to learn [HTML](https://developer.mozilla.or
 
 This cheat sheet doesn't cover JavaScript. Consider [this tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript), or this [other one](http://javascript.info/).
 
+## Todo Items
+- [ ] Add a form example
+- [ ] Add code highlight
+- [ ] Make Navbar more beautiful
+
+
 ## License
 
 MIT.
